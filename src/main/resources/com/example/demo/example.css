@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color: black;
+}
+.button{
+    -fx-background-color: green;
+}
+#vbox{
+    -fx-background-color: black;
+}
+#pane{
+    -fx-background-color: black;
+}
+.label{
+    -fx-background-color:#ffffff;
+}
